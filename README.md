@@ -1,1 +1,1 @@
-# Online_Quiz_Application
+The Quiz Application is an interactive tool that allows users to take quizzes on various topics. It features multiple-choice questions,and scoringfor each quiz attempt. The application is designed to provide an engaging and educational experience for users of all levels# Online_Quiz_Application
